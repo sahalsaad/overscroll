@@ -22,6 +22,12 @@ Add the following script tag to your HTML file:
 <script src="https://cdn.jsdelivr.net/npm/overscrolljs@latest/overscroll.min.js"></script>
 ```
 
+### Via YARN
+
+Navigate to your project's directory, and execute the following command:
+
+	$ yarn add overscrolljs
+
 ### Via NPM
 
 Navigate to your project's directory, and execute the following command:
